@@ -15,7 +15,7 @@ const Blogs = () => {
       {/* cards */}
       <div className="flex justify-between w-full mt-12 gap-6 flex-col md:flex-row">
         <div className="flex gap-6 md:flex-row flex-col">
-          <div className="w-[380px]">
+          <div className="md:w-[380px] w-full">
             <img
               src="/Blogs/blog_1.png"
               alt="blog_image"
@@ -33,7 +33,7 @@ const Blogs = () => {
               curiosity day assurance bed necessary.
             </p>
           </div>
-          <div className="w-[380px]">
+          <div className="md:w-[380px] w-full">
             <img
               src="/Blogs/blog_2.png"
               alt="blog_image"

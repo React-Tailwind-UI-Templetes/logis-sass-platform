@@ -21,10 +21,10 @@ const DownloadApp = () => {
         </p>
 
         <div className="flex items-center gap-5 mt-8">
-          <button className="md:py-[1rem] md:px-14 py-[0.5rem] px-8 rounded-full text-[16px] bg-brandColor text-[#fff] flex items-center gap-2">
+          <button className="md:py-[1rem] md:px-14 py-[0.5rem] px-4 rounded-full text-[16px] bg-brandColor text-[#fff] flex items-center gap-2">
             <img src="/apple-logo.png" alt="apple logo" /> Playstore
           </button>
-          <button className="md:py-[0.840rem] py-[0.350rem] md:px-10 px-8 rounded-full text-[16px] bg-[#05796B] text-[#fff] flex items-center gap-2">
+          <button className="md:py-[0.840rem] py-[0.350rem] md:px-10 px-4 rounded-full text-[16px] bg-[#05796B] text-[#fff] flex items-center gap-2">
             <img src="/google-play.png" alt="google play logo" /> Google Play
           </button>
         </div>

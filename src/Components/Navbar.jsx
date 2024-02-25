@@ -25,7 +25,7 @@ const Navbar = () => {
   return (
     <nav
       className={`${
-        scrolling && "backdrop-blur-lg shadow-md"
+        scrolling && "backdrop-blur-lg shadow-md sticky"
       } z-50 w-full max-w-[1400px] transition-all duration-300 mx-auto hidden md:flex items-center justify-between py-4 px-6 absolute top-0 left-0`}
     >
       <h1 className="text-[25px] font-[600] text-textColor">LOGIS</h1>

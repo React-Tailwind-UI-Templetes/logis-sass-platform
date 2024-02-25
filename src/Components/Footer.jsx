@@ -75,7 +75,7 @@ const Footer = () => {
       </footer>
       <div className="w-full h-[2px] bg-[#E5E5EA]"></div>
       <p className=" text-center py-6">
-        Copyright <b>@ react-tailwind-ui 2024.</b> All Rights Reserved.
+        Copyright <b>@ ZenUI.</b> All Rights Reserved.
       </p>
     </>
   );
